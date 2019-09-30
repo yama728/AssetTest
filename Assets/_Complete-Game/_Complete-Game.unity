@@ -1254,43 +1254,43 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 450098, guid: 149d6dcc67e8d1240bbc0dd6ddf0c1bd, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 1.6693
+      value: 5.6976957
       objectReference: {fileID: 0}
     - target: {fileID: 450098, guid: 149d6dcc67e8d1240bbc0dd6ddf0c1bd, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 0.12691
+      value: 5.875617
       objectReference: {fileID: 0}
     - target: {fileID: 450098, guid: 149d6dcc67e8d1240bbc0dd6ddf0c1bd, type: 2}
       propertyPath: m_LocalRotation.x
-      value: 0.8696382
+      value: 0.63450706
       objectReference: {fileID: 0}
     - target: {fileID: 450098, guid: 149d6dcc67e8d1240bbc0dd6ddf0c1bd, type: 2}
       propertyPath: m_LocalRotation.y
-      value: 0.17376412
+      value: -0.41269842
       objectReference: {fileID: 0}
     - target: {fileID: 450098, guid: 149d6dcc67e8d1240bbc0dd6ddf0c1bd, type: 2}
       propertyPath: m_LocalRotation.z
-      value: 0.4329992
+      value: 0.32057473
       objectReference: {fileID: 0}
     - target: {fileID: 450098, guid: 149d6dcc67e8d1240bbc0dd6ddf0c1bd, type: 2}
       propertyPath: m_LocalRotation.w
-      value: -0.16139166
+      value: -0.56948453
       objectReference: {fileID: 0}
     - target: {fileID: 450098, guid: 149d6dcc67e8d1240bbc0dd6ddf0c1bd, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 8.7257
+      value: 2.844715
       objectReference: {fileID: 0}
     - target: {fileID: 450098, guid: 149d6dcc67e8d1240bbc0dd6ddf0c1bd, type: 2}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -25.543001
+      value: -27.263
       objectReference: {fileID: 0}
     - target: {fileID: 450098, guid: 149d6dcc67e8d1240bbc0dd6ddf0c1bd, type: 2}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 129.419
+      value: 99.44301
       objectReference: {fileID: 0}
     - target: {fileID: 450098, guid: 149d6dcc67e8d1240bbc0dd6ddf0c1bd, type: 2}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 169.62701
+      value: 269.30798
       objectReference: {fileID: 0}
     - target: {fileID: 450098, guid: 149d6dcc67e8d1240bbc0dd6ddf0c1bd, type: 2}
       propertyPath: m_LocalScale.x
